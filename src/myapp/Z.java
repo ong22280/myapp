@@ -1,2 +1,4 @@
-package myapp;public class Z {
+package myapp;
+
+public class Z extends Y{
 }
